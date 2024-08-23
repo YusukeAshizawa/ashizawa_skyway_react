@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashizawa_skyway_react/static/css/main.f51f4211.css",
+    "main.js": "/ashizawa_skyway_react/static/js/main.76da1546.js",
+    "static/js/453.eeffa7f9.chunk.js": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js",
+    "index.html": "/ashizawa_skyway_react/index.html",
+    "main.f51f4211.css.map": "/ashizawa_skyway_react/static/css/main.f51f4211.css.map",
+    "main.76da1546.js.map": "/ashizawa_skyway_react/static/js/main.76da1546.js.map",
+    "453.eeffa7f9.chunk.js.map": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51f4211.css",
+    "static/js/main.76da1546.js"
+  ]
+}
