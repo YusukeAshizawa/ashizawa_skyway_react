@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ashizawa_skyway_react/static/css/main.292c4e09.css",
-    "main.js": "/ashizawa_skyway_react/static/js/main.c2e2f4b7.js",
+    "main.js": "/ashizawa_skyway_react/static/js/main.f44323f6.js",
     "static/js/453.eeffa7f9.chunk.js": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js",
     "index.html": "/ashizawa_skyway_react/index.html",
     "main.292c4e09.css.map": "/ashizawa_skyway_react/static/css/main.292c4e09.css.map",
-    "main.c2e2f4b7.js.map": "/ashizawa_skyway_react/static/js/main.c2e2f4b7.js.map",
+    "main.f44323f6.js.map": "/ashizawa_skyway_react/static/js/main.f44323f6.js.map",
     "453.eeffa7f9.chunk.js.map": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.292c4e09.css",
-    "static/js/main.c2e2f4b7.js"
+    "static/js/main.f44323f6.js"
   ]
 }
