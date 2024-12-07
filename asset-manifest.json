@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ashizawa_skyway_react/static/css/main.ea310230.css",
-    "main.js": "/ashizawa_skyway_react/static/js/main.09558a7a.js",
+    "main.css": "/ashizawa_skyway_react/static/css/main.3a03dd68.css",
+    "main.js": "/ashizawa_skyway_react/static/js/main.139a34cd.js",
     "static/js/453.eeffa7f9.chunk.js": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js",
     "index.html": "/ashizawa_skyway_react/index.html",
-    "main.ea310230.css.map": "/ashizawa_skyway_react/static/css/main.ea310230.css.map",
-    "main.09558a7a.js.map": "/ashizawa_skyway_react/static/js/main.09558a7a.js.map",
+    "main.3a03dd68.css.map": "/ashizawa_skyway_react/static/css/main.3a03dd68.css.map",
+    "main.139a34cd.js.map": "/ashizawa_skyway_react/static/js/main.139a34cd.js.map",
     "453.eeffa7f9.chunk.js.map": "/ashizawa_skyway_react/static/js/453.eeffa7f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea310230.css",
-    "static/js/main.09558a7a.js"
+    "static/css/main.3a03dd68.css",
+    "static/js/main.139a34cd.js"
   ]
 }
